@@ -1,0 +1,4 @@
+echo "Today is $date"
+cal
+date
+echo "bye niket"
